@@ -1,11 +1,16 @@
 _repo: Mother-Hubbard-s-cupboard-Recipes-collected-by-the-Young-Ladies-Society-First-Baptist-Church-__69171
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69171-h/images/cover.jpg
 creator:
   author:
     agent_name: Society, The Young Ladies
     gutenberg_agent_id: '55141'
     url: http://www.gutenberg.org/2009/agents/55141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69171#Mother-Hubbard-s-cupboard-Recipes-collected-by-the-Young-Ladies-Society-First-Baptist-Church-_
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69171'
